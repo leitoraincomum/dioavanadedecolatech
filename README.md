@@ -1,2 +1,5 @@
 # DIO Avanade DecolaTech
-Repositório para cumprir os exercícios do BootCamp DecolaTech 2022 Avanade DIO
+Repositório para cumprir os desafio de Git/Github exercícios do BootCamp DecolaTech 2022 Avanade DIO
+
+
+https://www.markdownguide.org/getting-started/
